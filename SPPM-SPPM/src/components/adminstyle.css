@@ -1,0 +1,42 @@
+.con{
+  background-image:'';
+
+  
+}
+.box{
+    background-color: #ffffe6;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 10px;
+   
+
+  }
+  .topic{
+     color: red;
+      text-decoration: underline;
+      text-shadow: 5px;
+      text-align: center;
+  }
+  .boxs{
+    background-color: whitesmoke;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 10px;
+    width: 250px;
+  }
+  .general{
+    max-width: cover;
+    max-height: 600px;
+    background-color: whitesmoke;
+    text-decoration: underline;
+    padding: 5px;
+  }
+  .imagesicons{
+    border-radius: 50%;
+    max-width: 55px;
+    max-height: 55px;
+  }

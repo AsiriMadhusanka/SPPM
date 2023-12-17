@@ -1,0 +1,14 @@
+.orders {
+    padding: 20px 80px;
+    background: url("https://cdn.wallpapersafari.com/57/52/fixmWP.jpg") no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    padding: 20px;
+    height: max-content;
+    color:white;
+}
+
+.orders > h1 {
+    margin: 30px 0;
+}

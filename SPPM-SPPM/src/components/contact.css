@@ -1,0 +1,26 @@
+.main-contact{
+    height:200vh;
+    background-image: url("https://cdn.wallpapersafari.com/57/52/fixmWP.jpg");
+}
+.map{
+    transform: translate(0%,-10%);
+}
+
+.deatails-con{
+    width: 75%;
+    position: relative;
+    transform: translate(15%,5%);
+    color: white;
+}
+.deatails h1{
+    color: white;
+}
+.deatails h5{
+    color: white;
+}
+.deatails h4{
+    color: white;
+}
+.deatails h2{
+    color: white;
+}
