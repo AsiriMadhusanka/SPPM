@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 15vh;
+    background: #000000;
+    color: #fff;
+
+}
+.pages{
+    list-style: none;
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+    width: 75%;
+    font-weight: 700;
+    align-items: center;
+    font-size: 20px;
+}
+.logo{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    width: 190px;
+    height: 75px;
+}
+
+@media (max-width: 880px) {
+    .pages {
+        float: none;
+        display: none;
+        text-align: left;
+    }
+
+    .header-right {
+        float: none;
+    }
+}
